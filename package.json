@@ -1,7 +1,7 @@
 {
   "name": "mediainfoq",
   "description": "Wrapper around the `mediainfo' program for obtaining metadata information about media files with the Q promise library",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Sagar Ghuge <ghugesss@gmail.com> (http://github.com/sagarghuge)",
   "url": "http://github.com/sagarghuge/mediainfoq",
   "license": "MIT",
