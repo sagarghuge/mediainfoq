@@ -1,0 +1,44 @@
+{
+  "name": "mediainfo",
+  "description": "Wrapper around the `mediainfo' program for obtaining metadata information about media files with the Q promise library",
+  "version": "0.0.1",
+  "author": {
+    "name": "Sagar Ghuge",
+    "email": "ghugesss@gmail.com",
+    "url": "http://github.com/sagarghuge"
+  },
+  "url": "http://github.com/sagarghuge/mediainfoq",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sagarghuge/mediainfoq.git",
+    "contributors": [
+      "http://github.com/sagarghuge"
+    ]
+  },
+  "keywords": [
+    "mediainfo",
+    "media",
+    "audio",
+    "video",
+    "mp3",
+    "flac",
+    "ogg",
+    "mkv",
+    "avi",
+    "mp4",
+    "container stream",
+    "elementary stream",
+    "meta data",
+    "q",
+    "promise"
+  ],
+  "main": "./lib/mediainfo",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {
+    "q": "^1.3.0",
+    "xml2js": "^0.4.9"
+  }
+}
